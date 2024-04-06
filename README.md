@@ -1,6 +1,10 @@
-# Ethereum ATM Application
+# Ethereum Gym Membership Application
 
-This Ethereum ATM application is a decentralized finance (DeFi) project that allows users to interact with an Ethereum smart contract using a web interface. The smart contract is designed to simulate an ATM, providing functionalities such as deposit and withdrawal of Ethereum.
+This Ethereum Gym Membership application is a decentralized finance (DeFi) project that enables users to manage their gym memberships through an Ethereum smart contract via a web interface. The smart contract offers functionalities like checking membership status, paying for membership, and eligibility for rewards such as a free T-shirt.
+
+## Features
+
+- **Connect to Metamask:** Users can connect their Metamask wallet to the application.
 
 ## Features
 
@@ -8,13 +12,10 @@ This Ethereum ATM application is a decentralized finance (DeFi) project that all
 
 - **Check Account Information:** Users can view their Ethereum account address.
 
-- **Check Account Balance:** Users can check their Ethereum account balance.
+- **Check Membership Price:** Users can view their current membership status, including the number of months paid for.
 
-- **Deposit ETH:** Users can deposit Ethereum into the smart contract.
+- **Check T-Shirt Eligibility:** Users can check if they are eligible for a free T-shirt based on their membership payments.
 
-- **Withdraw ETH:** Users can withdraw Ethereum from the smart contract.
-
-- **Deposit and Withdraw with User Input:** Users can enter a specific amount to deposit or withdraw.
 
 ## Getting Started
 
@@ -39,10 +40,6 @@ To run this application, follow these steps:
 9. Open the application in your browser.
 
 10. Connect your Metamask wallet and interact with the Ethereum ATM.
-
-## Authors
-
-- Sanjan Dileep sanjan.d15@gmail.com
 
 ## License
 
